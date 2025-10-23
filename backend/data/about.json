@@ -1,0 +1,51 @@
+{
+  "about_me": "I’m a full-stack developer and cybersecurity enthusiast passionate about building secure and efficient digital systems. My journey blends development and security — creating applications that are not only powerful but resilient. From achieving a Top 10% rank on TryHackMe to solving CTF challenges in reverse engineering, OSINT, and network analysis, I love exploring how technology works beneath the surface.",
+  
+  "what_im_doing": [
+    "Contributing to open-source security tools and automations.",
+    "Developing scalable web applications using React and FastAPI.",
+    "Actively learning and improving in cloud security and DevSecOps.",
+    "Participating in Capture The Flag (CTF) competitions and security research."
+  ],
+
+  "education": [
+    {
+      "degree": "B. Tech (Cyber Security)",
+      "institution": "Shah and Anchor Kutchhi Engineering College, Mumbai University",
+      "year": "2023 – Present"
+    },
+    {
+      "degree": "HSC (Science)",
+      "institution": "D.G. Ruparel College of Arts, Science & Commerce, Mumbai",
+      "year": "2021 – 2023"
+    }
+  ],
+
+  "ctfs": [
+    {
+      "platform": "TryHackMe",
+      "rank": "Top 10%",
+      "focus": ["Web Exploitation", "Reverse Engineering", "Network Analysis"]
+    },
+    {
+      "platform": "Hack The Box",
+      "rank": "Active Learner",
+      "focus": ["Privilege Escalation", "Enumeration", "OSINT"]
+    }
+  ],
+
+  "languages": ["English", "Hindi", "Marathi", "Odia"],
+
+  "spotify_top_10": [
+    "Everything Black – Unlike Pluto",
+    "505 – Arctic Monkeys",
+    "Lose Yourself – Eminem",
+    "After Dark – Mr.Kitty",
+    "Sweater Weather – The Neighbourhood",
+    "No Role Modelz – J. Cole",
+    "Believer – Imagine Dragons",
+    "Chamber of Reflection – Mac DeMarco",
+    "Save That Shit – Lil Peep",
+    "Middle of the Night – Elley Duhé"
+  ]
+}

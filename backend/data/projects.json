@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "description": "Full-stack personal portfolio built with FastAPI and React",
+      "technologies": ["FastAPI", "React", "Docker", "TailwindCSS"],
+      "github": null,
+      "demo": null,
+      "image": "/images/portfolio.png"
+    },
+    {
+      "id": 2,
+      "title": "E-Commerce Platform",
+      "description": "Scalable e-commerce solution with payment integration",
+      "technologies": ["Django", "React", "PostgreSQL", "Stripe"],
+      "github": null,
+      "demo": null,
+      "image": "/images/ecommerce.png"
+    }
+  ]
+}

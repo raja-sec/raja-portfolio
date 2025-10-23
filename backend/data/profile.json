@@ -1,0 +1,16 @@
+{
+  "name": "Raja",
+  "title": "Full Stack Developer & Cybersecurity Professional",
+  "bio": "I specialize in building secure, scalable web applications and solving real-world security challenges.",
+  "email": "raja.18307@sakec.ac.in",
+  "github": "https://github.com/raja-sec",
+  "linkedin": "https://linkedin.com/in/raja-mishra",
+  "location": "Mumbai, India",
+  "skills": {
+    "frontend": ["React", "JavaScript", "TailwindCSS", "Figma"],
+    "backend": ["Python", "FastAPI", "Flask", "Node.js", "PostgreSQL", "MySQL"],
+    "cloud": ["Docker", "GitHub Actions", "Git"],
+    "cybersecurity": ["Burp Suite", "Wireshark", "Nmap", "Gobuster", "OSINT Tools"]
+}
+
+}

@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "slug": "digital-forensics-using-kali-linux",
+      "title": "Digital Forensics Using Kali Linux: A Deep Dive into Modern Cyber Crime Investigation",
+      "summary": "Insights from the Infosys Springboard course on using Kali Linux for digital forensics, covering evidence acquisition, analysis, and real-world applications in cybercrime investigation.",
+      "date": "2025-09-30"
+    }
+  ]
+}
