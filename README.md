@@ -8,26 +8,18 @@ It showcases profile info, projects, articles (Markdown-powered), and a contact 
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend
-+-----------------------------+
-|        Technology           |
-+-----------------------------+
-| React (Vite)                |
-| TailwindCSS                 |
-| Axios                       |
-| React Router DOM            |
-| React Markdown + remark-gfm |
-| React Icons                 |
-+-----------------------------+
+- React (Vite)
+- TailwindCSS
+- Axios
+- React Router DOM
+- React Markdown + remark-gfm
+- React Icons
 
 ### ⚙️ Backend
-+----------------------------+
-|        Technology          |
-+----------------------------+
-| FastAPI                    |
-| Uvicorn                    |
-| Python Multipart           |
-| JSON + Markdown Data Layer |
-+----------------------------+
+- FastAPI
+- Uvicorn
+- Python Multipart (for form parsing)
+- JSON + Markdown-based data layer
 
 
 ---
