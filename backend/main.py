@@ -8,10 +8,18 @@ app = FastAPI(
     description="Backend API for Raja Indrajit Mishra's Portfolio"
 )
 
+# Define the origins that are allowed to make requests
+# We will add the Vercel URL later.
+origins = [
+    "http://localhost:5173",  # Your local dev frontend
+    "http://localhost:3000",  # (Just in case)
+    # We will add your live Vercel URL here in Phase 4
+]
+
 # CORS configuration
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
