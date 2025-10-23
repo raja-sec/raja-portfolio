@@ -149,5 +149,3 @@ Your frontend will now automatically connect to your live backend.
 ---
 
 > 💡 Built with ❤️ using React + FastAPI
-
-```
