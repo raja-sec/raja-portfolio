@@ -134,6 +134,9 @@ Your frontend will now automatically connect to your live backend.
 ## 🛠️ Future Enhancements
 
 * Add database support (PostgreSQL / MongoDB)
+* Resend for email connectivity
+* Light/dark mode toggle
+* Multi-colour theme option
 * Admin panel for editing JSON/Markdown content
 * Authentication (JWT)
 * Blog pagination & search
