@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { getProfile } from '../../api/api';
 import Button from '../ui/Button';
 import HeroImage from '../../assets/hero-image.png'; // put your illustration here
-import ResumeFile from '../../assets/raja_resume.pdf'; // <-- Add your resume file here
+// import ResumeFile from '../../assets/raja_resume.pdf'; // <-- Add your resume file here
 
 export default function Hero() {
   const [profile, setProfile] = useState(null);
@@ -44,7 +44,7 @@ export default function Hero() {
       </div>
 
       {/* Right: Image */}
-{/* <div className="flex-1 flex justify-center mt-10 md:mt-0">
+<div className="flex-1 flex justify-center mt-10 md:mt-0">
   <div
     className="w-64 h-64 md:w-80 md:h-80 overflow-hidden bg-pink-900"
     style={{
@@ -57,9 +57,9 @@ export default function Hero() {
       className="w-80 h-80 object-cover"
     />
   </div>
-</div> */}
+</div>
 
-  <div className="flex-1 flex justify-center mt-10 md:mt-0">
+  {/* <div className="flex-1 flex justify-center mt-10 md:mt-0">
   <div
     className="w-64 h-64 md:w-80 md:h-80 overflow-hidden bg-pink-900"
     style={{
@@ -76,7 +76,7 @@ export default function Hero() {
       // if you want to push it down further or 'object-[50%_20%]'
     />
   </div>
-</div>
+</div> */}
 
 
     </section>
