@@ -13,6 +13,7 @@ app = FastAPI(
 origins = [
     "http://localhost:5173",  # Your local dev frontend
     "http://localhost:3000",  # (Just in case)
+    "https://raja-portfolio.vercel.app"
     # We will add your live Vercel URL here in Phase 4
 ]
 
