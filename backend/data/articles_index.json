@@ -2,8 +2,41 @@
   "articles": [
     {
       "slug": "digital-forensics-using-kali-linux",
+      "subject": "cyber crime investigation & digital forensics",
       "title": "Digital Forensics Using Kali Linux: A Deep Dive into Modern Cyber Crime Investigation",
       "summary": "Insights from the Infosys Springboard course on using Kali Linux for digital forensics, covering evidence acquisition, analysis, and real-world applications in cybercrime investigation.",
+      "date": "2025-09-30"
+    },
+
+    {
+      "slug": "ai-in-cybersecurity",
+      "subject": "cybersecurity principles & practices",
+      "title": "The Role of Artificial Intelligence in Strengthening Cybersecurity Defenses",
+      "summary": "An in-depth exploration of how Artificial Intelligence is transforming cybersecurity through intelligent threat detection, predictive analytics, and automation while addressing ethical and practical challenges.",
+      "date": "2025-10-26"
+    },
+
+    {
+      "slug": "agile-and-hybrid-approaches",
+      "subject": "software engineering & project management",
+      "title": "Agile and Hybrid Approaches in Software Project Management",
+      "summary": "An in-depth look at how Agile and Hybrid project management models enhance flexibility, collaboration, and efficiency in modern software development.",
+      "date": "2025-10-26"
+    },
+
+    {
+      "slug": "etl-process-explained",
+      "subject": "data warehousing & mining",
+      "title": "The ETL Process: Extract, Transform, and Load Explained",
+      "summary": "An in-depth look at the ETL process in data warehousing—how data is extracted, transformed, and loaded to power analytics and business intelligence.",
+      "date": "2025-10-26"
+    },
+
+    {
+      "slug": "regular-expressions-in-modern-compilers",
+      "subject": "theory of computation & compiler design",
+      "title": "Regular Expressions in Modern Compilers and Programming Languages",
+      "summary": "An in-depth exploration of how regular expressions bridge theory and practice in compilers, programming languages, and real-world text processing.",
       "date": "2025-09-30"
     }
   ]
