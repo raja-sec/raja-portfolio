@@ -6,15 +6,11 @@ This article highlights key takeaways from the “Digital Forensics Using Kali L
 
 Digital forensics is the process of collecting, analyzing, and preserving electronic evidence. In cybercrime investigations, it helps uncover how systems were compromised, who was behind the attack, and what data was affected. Unlike traditional evidence, digital data is fragile since it can be deleted, altered, or encrypted in seconds.
 
-1. -Digital forensics typically follows a structured process:
-
-2. -Identify digital sources and potential evidence
-
-3. -Preserve data integrity during acquisition
-
-4. -Analyze files, memory, or network activity
-
-5. -Document and report findings for legal use
+- Digital forensics typically follows a structured process:
+- Identify digital sources and potential evidence
+- Preserve data integrity during acquisition
+- Analyze files, memory, or network activity
+- Document and report findings for legal use
 
 The course begins with setting up a digital lab using Kali Linux, a Debian-based distribution filled with forensic and cybersecurity tools. This setup ensures that investigations take place in a safe, isolated environment where evidence remains untouched.
 
@@ -32,13 +28,10 @@ Once the image is acquired, investigators move on to file system analysis. Tools
 
 Autopsy, in particular, provides an easy-to-use interface for:
 
- -Recovering deleted files
-
- -Extracting browser history and email records
-
- -Viewing image metadata and timestamps
-
- -Identifying suspicious or encrypted files
+- Recovering deleted files
+- Extracting browser history and email records
+- Viewing image metadata and timestamps
+- Identifying suspicious or encrypted files
 
 The course provides hands-on examples, showing how these tools help connect theory with real-world investigations. Learners analyze USB drives for stolen data, investigate harmful document files, and trace user activity through file timelines.
 
@@ -66,15 +59,11 @@ A forensic investigation is incomplete without proper documentation. The final m
 
 Effective forensic reports should include:
 
- -Tools and methods used during analysis
-
- -Details of evidence acquisition
-
- -Hash values for data verification
-
- -Timelines of discovered events
-
- -Analytical conclusions
+- Tools and methods used during analysis
+- Details of evidence acquisition
+- Hash values for data verification
+- Timelines of discovered events
+- Analytical conclusions
 
 The importance of clarity, accuracy, and neutrality is heavily emphasized. A well-structured report not only communicates findings effectively but also stands up to scrutiny in legal proceedings.
 
@@ -82,13 +71,10 @@ The importance of clarity, accuracy, and neutrality is heavily emphasized. A wel
 
 What makes this course truly valuable is its practical approach. Each module relates directly to real investigative challenges:
 
- -Investigating insider data theft in organizations
-
- -Analyzing phishing or malware incidents
-
- -Recovering deleted chat logs or images from suspect devices
-
- -Tracking IP addresses and network traces of attackers
+- Investigating insider data theft in organizations
+- Analyzing phishing or malware incidents
+- Recovering deleted chat logs or images from suspect devices
+- Tracking IP addresses and network traces of attackers
 
 By learning digital forensics through Kali Linux, students gain not only technical skills but also investigative intuition. It develops the mindset to think like an attacker yet act like a digital detective.
 
