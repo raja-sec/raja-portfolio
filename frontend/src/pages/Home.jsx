@@ -36,12 +36,61 @@ const videoData = [
     videoDriveId: "1QdclLXPefeUw1bC0iDgHdiscnooTFEiz"
   },
   {
-    subject: 'data warehousing & mining', // update this to match the correct subject!
+    subject: 'data warehousing & mining',
     slaStage: 3,
-    title: "SLA Stage 3",
+    title: "SLA Stage 3 - DWM",
     videoDriveId: "1HHih4o00h2Urs5hnGI54zAOABkyHq3k4"
+  },
+  {
+    subject: 'theory of computation & compiler design',
+    slaStage: 2,
+    title: "SLA Stage 2 - TCCD",
+    videoDriveId: "1I1SErEwU4QlSmIvwL9ev9eAh1ycalb-k"
+  },
+  {
+    subject: 'theory of computation & compiler design',
+    slaStage: 3,
+    title: "SLA Stage 3 - TCCD",
+    videoDriveId: "1oV1CWHr7xAfXg8Toj4o7YiqK8lp8x9LU"
+  },
+  {
+    subject: 'cybersecurity principles & practices',
+    slaStage: 2,
+    title: "SLA Stage 2 - CSPP",
+    videoDriveId: "1ESnS8Lw59e0IRibqFx60H5q6ZIEKH-W7"
+  },
+  {
+    subject: 'cybersecurity principles & practices',
+    slaStage: 3,
+    title: "SLA Stage 3 - CSPP",
+    videoDriveId: "1iKqCTrpve62bmNK8wIS4mKJAQ3EeUiNz"
+  },
+  {
+    subject: 'cyber crime investigation & digital forensics',
+    slaStage: 2,
+    title: "SLA Stage 2 - CCIDF",
+    videoDriveId: "1E6Tu6LsA6EaE-Gj_gBPxlo9UYB2SlG9t"
+  },
+  {
+    subject: 'cyber crime investigation & digital forensics',
+    slaStage: 3,
+    title: "SLA Stage 3 - CCIDF",
+    videoDriveId: "1gx5NBDD6JEZjnfrSOVDnWyLXmOexJlc2"
+  },
+  {
+    subject: 'software engineering & project management',
+    slaStage: 2,
+    title: "SLA Stage 2 - SEPM",
+    videoDriveId: "1wvP07eJ-AeCyVdBWVXyIPvsTl3enQLa3"
+  },
+  {
+    subject: 'software engineering & project management',
+    slaStage: 3,
+    title: "SLA Stage 3 - SEPM",
+    videoDriveId: "1FM8-C5nXhIvKmQbknJIsk69OSpF0DFDR"
   }
 ];
+
 
 
 
@@ -132,7 +181,7 @@ export default function Home() {
                 />
               ) : (
                 <div className="bg-gray-800 w-full h-full flex items-center justify-center text-yellow-400 text-xs">
-                  https://drive.google.com/file/d/1QdclLXPefeUw1bC0iDgHdiscnooTFEiz/view?usp=drive_link
+                  Paste your google drive file id here
                 </div>
               )}
             </div>
