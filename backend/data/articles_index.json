@@ -38,6 +38,14 @@
       "title": "Regular Expressions in Modern Compilers and Programming Languages",
       "summary": "An in-depth exploration of how regular expressions bridge theory and practice in compilers, programming languages, and real-world text processing.",
       "date": "2025-09-30"
+    },
+
+    {
+      "slug": "mastering-cloud-security-incident-response-aws",
+      "subject": "Cloud Security & Architecture",
+      "title": "Mastering Cloud Security: Threat Detection and Incident Response in AWS",
+      "summary": "An in-depth exploration of enterprise-grade security implementation in AWS, focusing on automated threat detection, vulnerability management, and forensic orchestration.",
+      "date": "2026-04-20"
     }
   ]
 }
