@@ -88,6 +88,30 @@ const videoData = [
     slaStage: 3,
     title: "SLA Stage 3 - SEPM",
     videoDriveId: "1FM8-C5nXhIvKmQbknJIsk69OSpF0DFDR"
+  },
+  {
+    subject: 'cryptography & network security',
+    slaStage: 2,
+    title: "SLA Stage 2 - CNS",
+    videoDriveId: "1VZD24XY9e-j4y4i8_JcU00F19EAabeH2"
+  },
+  {
+    subject: 'cryptography & network security',
+    slaStage: 3,
+    title: "SLA Stage 3 - CNS",
+    videoDriveId: "1ow3ZxxY0hAtcMI-mS6lvx9w4RKIexh9D"
+  },
+  {
+    subject: 'cloud & multi cloud security',
+    slaStage: 2,
+    title: "SLA Stage 2 - CMCS",
+    videoDriveId: ""
+  },
+  {
+    subject: 'cloud & multi cloud security',
+    slaStage: 3,
+    title: "SLA Stage 3 - CMCS",
+    videoDriveId: ""
   }
 ];
 // https://drive.google.com/file/d/1j3ovCMPzP06CosFi_J0PvOJm6MsROHuy/view?usp=drive_link
