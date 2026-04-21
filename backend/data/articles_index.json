@@ -54,6 +54,13 @@
       "title": "The Role of Cryptography in Modern Cybersecurity",
       "summary": "An exploration of fundamental cryptographic principles, detailing how symmetric and asymmetric encryption, alongside hashing, protect digital infrastructure from modern cyber threats.",
       "date": "2026-04-20"
+    },
+    {
+      "slug": "anatomy-of-modern-penetration-testing",
+      "subject": "Penetration Testing: Techniques, Tools, and Compliance",
+      "title": "The Anatomy of a Cyber Attack: Decoding the Penetration Testing Lifecycle",
+      "summary": "A comprehensive breakdown of the ethical hacking lifecycle, exploring how security professionals use reconnaissance, scanning, and exploitation tools to secure digital infrastructure.",
+      "date": "2026-04-21"
     }
   ]
 }
