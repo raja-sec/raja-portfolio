@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { getProfile } from '../../api/api';
 import Button from '../ui/Button';
-import HeroImage from '../../assets/hero-image.png'; // put your illustration here
+import HeroImage from '../../assets/hero-image-1.png'; // put your illustration here
 // import ResumeFile from '../../assets/raja_resume.pdf'; // <-- Add your resume file here
 
 export default function Hero() {
