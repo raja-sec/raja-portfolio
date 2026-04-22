@@ -112,6 +112,18 @@ const videoData = [
     slaStage: 3,
     title: "SLA Stage 3 - CMCS",
     videoDriveId: "1pRKPMvu1mMs-MRNqir-jyjt9jVWuXa5M"
+  },
+  {
+    subject: 'penetration testing: techniques, tools, and compliance',
+    slaStage: 2,
+    title: "SLA Stage 2 - PENTEST",
+    videoDriveId: "1k8WWjKPEuxfL9WjPh2kT0ucQtZ29uJWh"
+  },
+  {
+    subject: 'penetration testing: techniques, tools, and compliance',
+    slaStage: 3,
+    title: "SLA Stage 3 - PENTEST",
+    videoDriveId: "14cBVkfX2HtXpOjQh2ns-kd1QA8-Q_h6I"
   }
 ];
 // https://drive.google.com/file/d/1j3ovCMPzP06CosFi_J0PvOJm6MsROHuy/view?usp=drive_link
