@@ -100,22 +100,21 @@ const videoData = [
     slaStage: 3,
     title: "SLA Stage 3 - CNS",
     videoDriveId: "1ow3ZxxY0hAtcMI-mS6lvx9w4RKIexh9D"
-  },
+  }, 
   {
     subject: 'cloud & multi cloud security',
     slaStage: 2,
     title: "SLA Stage 2 - CMCS",
-    videoDriveId: ""
+    videoDriveId: "1tDLpXOlfgXgGiWa5Vpaggd57Bx69OMnT"
   },
   {
     subject: 'cloud & multi cloud security',
     slaStage: 3,
     title: "SLA Stage 3 - CMCS",
-    videoDriveId: ""
+    videoDriveId: "1pRKPMvu1mMs-MRNqir-jyjt9jVWuXa5M"
   }
 ];
 // https://drive.google.com/file/d/1j3ovCMPzP06CosFi_J0PvOJm6MsROHuy/view?usp=drive_link
-
 
 
 export default function Home() {
