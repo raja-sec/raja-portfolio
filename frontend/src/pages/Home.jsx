@@ -124,6 +124,18 @@ const videoData = [
     slaStage: 3,
     title: "SLA Stage 3 - PENTEST",
     videoDriveId: "14cBVkfX2HtXpOjQh2ns-kd1QA8-Q_h6I"
+  },
+  {
+    subject: 'security operations center',
+    slaStage: 3,
+    title: "SLA Stage 2 - SOC",
+    videoDriveId: "1VA1dn8lUuNCZNUWDtQpiN2XjbJEpPd-z"
+  },
+  {
+    subject: 'security operations center',
+    slaStage: 3,
+    title: "SLA Stage 3 - SOC",
+    videoDriveId: "1OS9myUAufjzum8dzN3aJyNmO2o7SgaL1"
   }
 ];
 // https://drive.google.com/file/d/1j3ovCMPzP06CosFi_J0PvOJm6MsROHuy/view?usp=drive_link
