@@ -127,7 +127,7 @@ const videoData = [
   },
   {
     subject: 'security operations center',
-    slaStage: 3,
+    slaStage: 2,
     title: "SLA Stage 2 - SOC",
     videoDriveId: "1VA1dn8lUuNCZNUWDtQpiN2XjbJEpPd-z"
   },
